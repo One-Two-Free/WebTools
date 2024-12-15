@@ -1,0 +1,18 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: olive;
+  display: inline-block;
+}
+
+.first {
+  background-color: orangered;
+  transform-origin: bottom right;
+  transform: rotate(45deg);
+}
+
+h1 {
+  transform: rotate(20deg) scaleX(3);
+  display: inline-block;
+  border: 1px solid black;
+}
